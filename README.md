@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Parampreet Singh 
-- I am 16 year old.
+- I am 17 year old.
 - Interested in Python programming language.
 - Currently learning Python 🐍.
 - I like Python because it's syntax is short we can do anything like make website, app or game and mainly it is used in A.I. and Machine Learning.
