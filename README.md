@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Parampreet Singh .
-- Interested in Python programming language.
 - Currently learning Python 🐍
 
 <!---
